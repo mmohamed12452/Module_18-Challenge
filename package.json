@@ -1,0 +1,11 @@
+{
+  "name": "module-18-challenge",
+  "version": "1.0.0",
+  "description": "Module 18 assignment is an api for social network application where the user will display their ideas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
